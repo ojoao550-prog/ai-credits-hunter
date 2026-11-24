@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T13:09:10.023326+00:00",
-  "total_found": 16,
+  "generated_at": "2026-11-24T13:08:51.990337+00:00",
+  "total_found": 15,
   "notice": "Listings are not guaranteed to accept Brazilian applicants. Check eligibility, payment terms and legitimacy before applying.",
   "opportunities": [
     {
@@ -186,27 +186,14 @@
       "verified_for_brazil": false
     },
     {
-      "title": "Senior Back-end Developer",
+      "title": "Senior Back-end Developerusa",
       "company": "Lemon.io",
       "category": "Software Development",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "salary": "Not informed",
       "job_type": "full_time",
       "publication_date": "2026-10-27T12:56:13",
-      "application_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
-      "source": "Remotive",
-      "remote": true,
-      "verified_for_brazil": false
-    },
-    {
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "category": "Artificial Intelligence",
-      "location": "Worldwide",
-      "salary": "70K-80K",
-      "job_type": "freelance",
-      "publication_date": "2026-10-22T18:40:19",
-      "application_url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "application_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive",
       "remote": true,
       "verified_for_brazil": false
