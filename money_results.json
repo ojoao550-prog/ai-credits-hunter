@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-25T13:13:03.905479+00:00",
-  "total_found": 15,
+  "generated_at": "2026-11-26T13:10:48.888141+00:00",
+  "total_found": 16,
   "notice": "Listings are not guaranteed to accept Brazilian applicants. Check eligibility, payment terms and legitimacy before applying.",
   "opportunities": [
+    {
+      "title": "WordPress Theme & Plugin Developer",
+      "company": "Steward Web Development",
+      "category": "Software Development",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "salary": "$57K - $67K",
+      "job_type": "contract",
+      "publication_date": "2026-11-24T10:31:32",
+      "application_url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "source": "Remotive",
+      "remote": true,
+      "verified_for_brazil": false
+    },
     {
       "title": "Content Reviewer - United States",
       "company": "TELUS Digital",
