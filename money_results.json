@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-26T13:10:48.888141+00:00",
-  "total_found": 16,
+  "generated_at": "2026-11-27T13:07:10.646728+00:00",
+  "total_found": 17,
   "notice": "Listings are not guaranteed to accept Brazilian applicants. Check eligibility, payment terms and legitimacy before applying.",
   "opportunities": [
+    {
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "category": "Customer Service",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "salary": "Not informed",
+      "job_type": "full_time",
+      "publication_date": "2026-11-25T11:26:35",
+      "application_url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "source": "Remotive",
+      "remote": true,
+      "verified_for_brazil": false
+    },
     {
       "title": "WordPress Theme & Plugin Developer",
       "company": "Steward Web Development",
