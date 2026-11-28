@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T13:07:10.646728+00:00",
-  "total_found": 17,
+  "generated_at": "2026-11-28T12:53:20.599700+00:00",
+  "total_found": 16,
   "notice": "Listings are not guaranteed to accept Brazilian applicants. Check eligibility, payment terms and legitimacy before applying.",
   "opportunities": [
     {
@@ -207,19 +207,6 @@
       "job_type": "contract",
       "publication_date": "2026-10-29T18:22:41",
       "application_url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "source": "Remotive",
-      "remote": true,
-      "verified_for_brazil": false
-    },
-    {
-      "title": "Senior Back-end Developerusa",
-      "company": "Lemon.io",
-      "category": "Software Development",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "salary": "Not informed",
-      "job_type": "full_time",
-      "publication_date": "2026-10-27T12:56:13",
-      "application_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive",
       "remote": true,
       "verified_for_brazil": false
